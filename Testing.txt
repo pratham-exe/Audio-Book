@@ -1,0 +1,156 @@
+CHEMISTRY RESEARCH 
+PAPER  ON HARDNESS OF 
+WATER  
+ 
+Abstract : Water hardness is a common issue that affects the quality and 
+usability of water in many regions worldwide. This abstract provides an 
+overview of the causes, effects, and treatment methods associated with water 
+hardness. Water  with high concentration of mi nerals is hard water. Water is 
+essential for life. But water with very high degrees of hardness is harmful to 
+health. Hardness of water can be determined by EDTA titration method. 
+Extreme degree of hardness is dangerous to health. The minerals that are 
+supplemented to body through water will be beneficial to health in several 
+ways.  Water hardness is important to fish culture and is a commonly reported 
+aspect of water quality. It is a measure of the quantity of divalent ions such as 
+calcium, magnesium and/or  iron in water.  These minerals enter water sources 
+through the natural leaching of rocks and minerals as well as from human 
+activities such as industrial processes and the use of certain detergents.  So 
+public should be educated about degrees of hardness an d its effects.  
+ 
+Introduction : Hardness, a physio chemical property of water, is generally a 
+measure of calcium and magnesium ions in water. Zinc, iron, strontium, 
+aluminium, and manganese can also contribute to water hardness; however, 
+they are generally present in very low concentrations. These ions enter a water 
+supply by leaching from minerals of rocks and soil. Initially, water hardness was 
+understood to be a measure of the capacity of water to precipitate soap,  it has 
+been generally accepted  that hardness is defined as the sum of the Ca and Mg 
+concentrations, determined by the EDTA titration method, and expressed in 
+ppm of sodium carbonate. The extreme degrees (very soft and very hard) are 
+considered as undesirable concordantly from the techn ical and health points of view, but the optimum Ca and Mg water levels are not easy to determine since 
+the health requirements may not coincide with the technical ones. Health 
+significance of water hardness was directly evidenced in the late 1950’s.  
+ The World Health Organization says that "there does not appear to be 
+any convincing evidence that water hardness  causes adverse health effects in 
+humans" (WHO, 2003). In fact, the United States National Research Council has 
+found that hard water can actually s erve as a dietary supplement for calcium 
+and magnesium. Hard drinking water is generally not harmful to one's health , 
+but can pose serious problems in industrial settings, where water hardness is 
+monitored to avoid costly breakdowns in boilers, cooling tow ers, and other 
+equipment that handles water. In domestic settings, hard water is often 
+indicated by a lack of suds formation when soap is agitated in water, and by the 
+formation of lime scale in kettles and water heaters. Wherever water hardness 
+is a conce rn, water softening is commonly used to reduce hard water's adverse 
+effects.  Keeping in view of all these things the present study was carried out to 
+estimate the amount of hardness in the ground water of those areas.  
+ Water hardness is important to fish c ulture and is commonly reported 
+aspect of water quality. Calcium has an important role in the biological 
+processes of fish. It is necessary for bone formation, blood clotting and other 
+metabolic reactions. Fish can absorb calcium for these needs directly f rom the 
+water or food. Sodium and potassium are the most important salts in fish blood 
+and are critical for normal heart, nerve and muscle function. Hardness is 
+commonly confused with alkalinity.  
+ Hardness in water is due to the presence of dissolved salt s of calcium 
+and magnesium. It is unfit for drinking, bathing, washing and it also forms 
+scales in boilers. Hence it is necessary to estimate the amount of hardness 
+producing substances present in the water sample. Once it is estimated, the 
+amount of chemi cals required for the treatment of water can be calculated. 
+The estimation of hardness is based on complexometric titration. Hardness of 
+water is determined by titrating with a standard solution of ethylene diamine 
+tetra acetic acid (EDTA) which is a compl exing agent. Since EDTA is insoluble in 
+water, the disodium salt of EDTA is taken for this experiment. EDTA can form 
+four or six coordination bonds with a metal ion. Two type of hardness is 
+present in water first is temporary hardness and second is permane nt 
+hardness. Temporary hardness is due to the presence of bicarbonates of 
+calcium and magnesium ions. It can be easily removed by boiling. Permanent hardness is due to the presence of chlorides and sulphates of calcium and 
+magnesium ions. This type of hard ness cannot be removed by boiling.  
+ 
+Experimental Procedure :  
+1. Add EDTA salt to the weighing tube and transfer the salt to the flask. 
+Proceed to weight the empty weighing tube and note the values.  
+2. Add 3 – 4 ml of ammonia and distilled water to the flask and  mix 
+thoroughly and fill the flask with 250 ml of distilled water. Transfer this 
+standard solution into the burette.  
+3. In a conical flask take 25 ml of hard water, 3 ml of buffer solution and a 
+pinch of Eriochrome black – T indicator. Wine red colour is obs erved 
+when mixed.  
+4. Note the initial reading.  
+5. Titrate this standard solution against the hard water. At the end point 
+colour changes from wine red to pale blue colour.  
+6. Note the final reading and record it. Repeat the process till we get 
+concordant value.  
+Results and Discussion :  
+1. Preparation of standard 𝑵𝒂𝟐𝑬𝑫𝑻𝑨  solution :  
+ 
+Weight of weighing bottle + 
+𝑁𝑎2𝐸𝐷𝑇𝐴  5.4150  
+Weight of empty weighing bottle  3.5154  
+Weight of 𝑁𝑎2𝐸𝐷𝑇𝐴  salt 
+transferred  1.8996  
+ 
+𝑀𝑜𝑙𝑎𝑟𝑖𝑡𝑦  𝑜𝑓 𝑁𝑎2𝐸𝐷𝑇𝐴  𝑠𝑜𝑙𝑢𝑡𝑖𝑜𝑛  
+= 𝑊𝑒𝑖𝑔 ℎ𝑡 𝑜𝑓 𝑁𝑎2𝐸𝐷𝑇𝐴  𝑑𝑖𝑠𝑠𝑜𝑙𝑣𝑒𝑑  𝑖𝑛 250  𝑚𝑙 ∗ 4
+𝐺𝑟𝑎𝑚  𝑚𝑜𝑙𝑒𝑐𝑢𝑙𝑎𝑟  𝑤𝑒𝑖𝑔 ℎ𝑡 𝑜𝑓 𝑁𝑎2𝐸𝐷𝑇𝐴 
+  =1.8996  ∗ 4
+372 .14 
+  = 0.0204  (A) 
+ 
+2. Estimation of hardness :  
+ 
+‘B’ mL of ‘A’  M 𝑁𝑎2𝐸𝐷𝑇𝐴  = 100  ∗ 𝐴 ∗ 𝐵
+1000 (C) g of 𝐶𝑎𝐶 𝑂3 25 mL of hard water contains ‘C’ g of 𝐶𝑎𝐶 𝑂3 
+ 
+Therefore, 106 mL of hard water contains 𝐶 ∗ 106
+25 g of 𝐶𝑎𝐶 𝑂3 
+ (g/106 ml hard water = mg/dm3 = ppm)  
+ 
+S. 
+No.  Location  Coordinates  Volume 
+of 𝑁𝑎2𝐸𝐷𝑇𝐴  
+consumed 
+(B)  (C) g of 
+𝐶𝑎𝐶 𝑂3 ppm  pH 
+1. Jayanagar 
+3rd block  12.9333065, 
+77.5833574  3.7 0.007548  301.92  6.98  
+2. Amaatra 
+Hostel  12.894954, 
+77.673466  5.6 0.011424  456.96  7.25  
+3. HSR 
+Layout  12.9131341, 
+77.6485911  3.6 0.007344  293.76  6.99  
+4. Jayanagar 
+1st block  12.940252, 
+77.587465  3.1 0.006324  252.96  6.91  
+5. P .G 
+Electronic 
+city 28.519890, 
+77.202777  8.3 0.016932  677.28  6.8 
+ 
+Hard drinking water is generally not harmful to one's health, (WHO, 2003) but 
+can pose serious problems in industrial settings. Most of the people especially 
+housewives dislike hard water because it does not lather well or does not taste 
+good, but they may not be knowing that it may prolong their lives, and more 
+especially their husband. Calcium, on e of the components of hard water, can 
+be protective because it makes water less corrosive and less likely to leach toxic 
+trace minerals, such as cadmium and lead, out of metal pipes. According to the 
+U.S. National Academy of Sciences by 1977 there had bee n more than 50 
+studies, in nine countries, that had indicated an inverse relationship between 
+water hardness and mortality from cardiovascular disease . Most of the 
+scientists have indicated a negative statistical association of various types of 
+cancer morb idity/mortality with the hardness of water and calcium. Some 
+studies correlate domestic hard water usage with increased eczema in children . 
+Conclusion : Most of the people dislikes to use hard water, magnesium and 
+calcium are having some protective effect o n cardiovascular mortality, the 
+evidence being debated and does not prove ca usality and also the drinking water is the source of calcium and magnesium intake which are essential for 
+the body.  Hence it would be better if we bring awareness among the public.  
+ 
+ 
+Reference :    
+1. Understanding water har dness – https://www.researchgate.net  
+2. A study on the estimation of hardness in ground water – 
+https://www.iosrjournals.org  
+3. Potential health impacts of hard water – https://www.ncbi.nlm.nih.gov  
+4. A study on the estimation of hardness – https://recentscientific. com  
+5. Determine the total hardness of given water samples – 
+https://www.mlsu.ac.in  
+ 
