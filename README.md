@@ -1,6 +1,6 @@
 # Audio Book
 
-Audio Books are audio files. Basically a conversion tool of pdf (book) to audio (mp3).
+Audio Books are audio files. Basically a conversion tool of text (book) to audio (mp3).
 
 ## Features
 
